@@ -12,6 +12,8 @@ You are an analytical CRM (Customer Relationship Management) specialist hired by
 SQL**
 
 ## Data Description
+We have 7 Tables with the data. These are ActiveCustomer, Bank_Churn, CreditCard, CustomerInfo, ExitCustomer, Gender and Geography. Most of the data is in Bank_Churn and CustomerInfo tables. <br />
+The data can be downloaded from: "https://drive.google.com/drive/folders/1oykFSe4CWfLZCrLzlKm5kiIZTEJkxHUR" <br />
 **CustomerId:** A unique identifier for each customer. <br />
 **CreditScore:** A numerical representation of the customer's creditworthiness. <br />
 **Credit score:**  <br />

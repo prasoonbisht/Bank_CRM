@@ -21,3 +21,12 @@ Poor: 300–579 <br />
 **HasCrCard:** denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank. <br />
 1 represents credit card holder <br />
 0 represents non credit card holder <br />
+**IsActiveMember:** active customers are less likely to leave the bank (as per the criteria defined by the bank for identifying the activeness). <br />
+1 represents Active Member <br />
+0 represents Inactive Member <br />
+**Estimated Salary:** as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries. <br />
+**Exited:** whether or not the customer left the bank. <br />
+0 represents Retain <br /> 
+1 represents Exit <br />
+**Bank DOJ:** date when the Customer associated/joined  with the bank. <br />
+

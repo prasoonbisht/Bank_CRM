@@ -7,6 +7,10 @@
 ## Problem Statement 
 You are an analytical CRM (Customer Relationship Management) specialist hired by a bank to extract meaningful insights from various customer-related datasets. The bank aims to reduce customer churn, improve service delivery, and enhance customer satisfaction. They have provided you with datasets including customer demographics, transaction details, customer exit information, and active customer profiles.
 
+## Technologies Used
+**Power BI <br />
+SQL**
+
 ## Data Description
 **CustomerId:** A unique identifier for each customer. <br />
 **CreditScore:** A numerical representation of the customer's creditworthiness. <br />
@@ -40,7 +44,3 @@ You are an analytical CRM (Customer Relationship Management) specialist hired by
 **3. Credit-Card Ownership:** A notable 69.91% of exited customers were credit card holders, indicating potential opportunities for cross-selling and retention initiatives. <br />
 **4. Activity Status Correlation:** Inactive members exhibit a higher exit rate (1302) compared to active members (735), underscoring the importance of maintaining customer engagement. <br />
 **5. Customer Churn Insights:** Leveraging analytical CRM tools can enhance understanding of customer behavior, enabling the bank to implement effective retention strategies and drive business growth. <br />
-
-## Technologies Used
-**Power BI <br />
-SQL**
